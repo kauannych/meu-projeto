@@ -1,4 +1,4 @@
-# meu-projeto
+# meu-projeto .⭐
 t cor;
 let posicaoHorizontal; // x
 let posicaoVertical; // y
